@@ -3,6 +3,10 @@
 
 This repo holds the codes of paper: "Relaxed Transformer Decoders for Direct Action Proposal Generation", accepted in ICCV 2021.
 
+# News
+
+**[2021.8.17]** We release codes, checkpoint and features on THUMOS14.
+
 ![RTD-Net Overview](./rtd_overview.png)
 
 ## Overview
@@ -80,4 +84,13 @@ If you think our work is helpful, please feel free to cite our paper.
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
+
+## Contact
+
+For any question, please file an issue or contact
+
+```
+Jing Tan: jtan@smail.nju.edu.cn
+Jiaqi Tang: jqtang@smail.nju.edu.cn
 ```
