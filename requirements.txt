@@ -1,0 +1,7 @@
+matplotlib
+numpy==1.19.2
+pandas
+scipy
+termcolor
+torch>=1.6.0
+torchvision>=0.7.0
