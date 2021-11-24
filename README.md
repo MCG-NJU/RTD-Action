@@ -76,13 +76,13 @@ We especially thank the contributors of the [BSN](https://github.com/wzmsltw/BSN
 If you think our work is helpful, please feel free to cite our paper.
 
 ```
-@misc{tan2021relaxed,
-      title={Relaxed Transformer Decoders for Direct Action Proposal Generation},
-      author={Jing Tan and Jiaqi Tang and Limin Wang and Gangshan Wu},
-      year={2021},
-      eprint={2102.01894},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Tan_2021_RTD,
+    author    = {Tan, Jing and Tang, Jiaqi and Wang, Limin and Wu, Gangshan},
+    title     = {Relaxed Transformer Decoders for Direct Action Proposal Generation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {13526-13535}
 }
 ```
 
