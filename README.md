@@ -5,6 +5,7 @@ This repo holds the codes of paper: "Relaxed Transformer Decoders for Direct Act
 
 # News
 
+[2022.4.4] We release codes, checkpoint and features on ActivityNet-1.3.  
 **[2021.8.17]** We release codes, checkpoint and features on THUMOS14.
 
 ![RTD-Net Overview](./rtd_overview.png)
