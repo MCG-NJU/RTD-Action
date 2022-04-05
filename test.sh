@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python -m torch.distributed.launch --nproc_per_node=1 --master_port=10004 --use_env main.py --window_size 100 --batch_size 128 --lr 1e-4 --stage 3 --epochs 20 --num_queries 100 --point_prob_normalize --absolute_position --eval --resume outputs/checkpoint_best_auc.pth
